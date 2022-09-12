@@ -1,0 +1,17 @@
+name: EnderChestViewer
+version: '${project.version}'
+main: org.kollpotato.enderchestviewer.EnderChestViewer
+api-version: 1.19
+
+commands:
+  enderchest:
+    aliases:
+      - ec
+      - echest
+    description: Opens your ender chest or another player
+
+permissions:
+  ecv.enderchest.view:
+    default: op
+  ecv.enderchest.view.player:
+    default: op

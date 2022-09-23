@@ -1,4 +1,4 @@
-# EnderChest Viewer
+# EnderChestViewer
 
 **EnderChestViewer** is Minecraft plugin made for [Bukkit](https://getbukkit.org/)/[Paper](https://papermc.io/)/[Spigot](https://getbukkit.org/) servers.
 
